@@ -1,2 +1,3 @@
 Name - Rishav Ranjan
 City - Patna
+Skills - Python,SQL
